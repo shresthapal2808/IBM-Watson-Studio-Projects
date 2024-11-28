@@ -1,0 +1,9 @@
+[submodule "Heart-Attack-Risk-Prediction-Model"]
+	path = Heart-Attack-Risk-Prediction-Model
+	url = https://github.com/shresthapal2808/Heart-Attack-Risk-Prediction-Model.git
+[submodule "Crop-Recommendation-Model"]
+	path = Crop-Recommendation-Model
+	url = https://github.com/shresthapal2808/Crop-Recommendation-Model.git
+[submodule "AI-chatbot"]
+	path = AI-chatbot
+	url = https://github.com/shresthapal2808/AI-chatbot.git
